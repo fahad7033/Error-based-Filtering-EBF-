@@ -9,8 +9,11 @@ EBF is a method which is used as a dynamic noise filtering technique during neur
 All code was developed and tested by keras; and implemented on AWS GPU. The environment is as bellow:
 
 TensorFlow and Keras 2
+
 Python 2.7
+
 CUDA 9.0
+
 numpy 1.16.5
 
 For running the method, simply run the file model.py which is developed for MNIST dataset.
